@@ -1,10 +1,9 @@
 title: "Tram Baxa" # your name (or website title) here
 logo: "/images/126179421_5275287702497075_1854347480346662379_n.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br> "Business Data Analytics and Computer Information Systems student" 
-  Second description 
-  <br><br>
+  <br>Business Data Analytics and Computer Information Systems student <br>
+
+  <br>Focus on applying technology to prove bussiness development process and analyzing data to help with decision making.
   <a href="https://www.linkedin.com/in/tram-baxa-79531621a/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
